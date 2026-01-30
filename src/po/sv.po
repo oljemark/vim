@@ -4352,7 +4352,7 @@ msgstr "E106: Utdataformat för diff stöds inte: %s"
 
 #, c-format
 msgid "E107: Missing parentheses: %s"
-msgstr "E107: Saknar hakparantes: %s"
+msgstr "E107: Saknar hakparentes: %s"
 
 #, c-format
 msgid "E108: No such variable: \"%s\""
